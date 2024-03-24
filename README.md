@@ -2,14 +2,13 @@
 
 A Simple Pinger.
 
-```
-wauping -h
-```
-
-
 ## usage
 
 Syntax:
+
+```
+wauping -h
+```
 
 ## CREDITS ##
 Author: Arctis / BennyxDev
