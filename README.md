@@ -1,2 +1,5 @@
 # WauPing
-A Simple Pinger.
+
+```
+wauping -h
+```
