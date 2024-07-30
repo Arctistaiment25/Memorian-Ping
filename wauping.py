@@ -34,12 +34,12 @@ def start():
          `_/      )
          (_(_/-(_/  
     {RESET}""")
-    print(f"""{BLUE}    Welcome to WauPing The big brother from WauPing.
-    Documentation on {RESET} https://github.com/BennyxDev""")
+    print(f"""{BLUE}    Welcome to WauPing The big brother from MiauPing.
+    Documentation on {RESET} https://github.com/Arctistaiment25""")
     print("")
     choose = input(f"{YELLOW}> ")
 
-    if choose == "wauping -h":
+    if choose == "-h":
         os.system("cls")
         print(f"""{GREEN}
           __      _
@@ -50,12 +50,12 @@ def start():
         print("")
         print(f"   {BLUE}[wauping -p -t] {RESET} Ping with Delay {MAGENTA}TCP")
         print(f"   {BLUE}[wauping -p] {RESET} Ping without Delay {MAGENTA}TCP")
-        print(f"   {BLUE}[wauping -h] {RESET} Documentation")
+        print(f"   {BLUE}[wauping -h] {RESET} Help")
         print("")
         input("  Press Enter to go Back")
         start()
 
-    elif choose == "wauping -p -t":
+    elif choose == "-p -t":
         os.system("cls")
         print(f"""{GREEN}
           __      _
@@ -76,7 +76,7 @@ def start():
                 print(f"{RESET} [#]STATUS: {RED}Endpoint Dead{RESET}")
                 time.sleep(1)
 
-    elif choose == "wauping -p":
+    elif choose == "-p":
         os.system("cls")
         print(f"""{GREEN}
           __      _
