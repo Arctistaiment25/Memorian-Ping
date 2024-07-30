@@ -7,7 +7,7 @@ A Simple Pinger.
 Syntax:
 
 ```
-wauping -h
+-h
 ```
 
 ## CREDITS ##
