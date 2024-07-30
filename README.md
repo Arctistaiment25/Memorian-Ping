@@ -11,11 +11,9 @@ Syntax:
 ```
 
 ## CREDITS ##
-Author: Arctis / BennyxDev
-|
-ReCoder: BennyxDev
+Author: Arctis
 
 ## Links ##
-Website: https://arctis-network.serveftp.com
-Discord: https://discord.gg/jQsJjhwrcM
-EMail: arctis.netzwerk@aol.com
+Website: https://arctis-network.serveftp.com DOWN
+Discord: https://discord.gg/jQsJjhwrcM DOWN
+EMail: arctis.netzwerk@aol.com DOWN
