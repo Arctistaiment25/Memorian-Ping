@@ -5,7 +5,7 @@ import subprocess
 from ipwhois import IPWhois
 from ipwhois.exceptions import IPDefinedError, ASNRegistryError
 
-os.system("title WauPing - Encrypted")
+os.system("title WauPing")
 
 RED = '\033[31m'
 GREEN = '\033[32m'
