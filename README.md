@@ -3,17 +3,19 @@
 A Simple Pinger.
 
 ## usage
-
-Syntax:
-
 ```
--h
+wauping.exe -- (Into your CMD / READ HOW TO USE!)
+```
+
+Requiremets
+- Python 3.X.X
+```
+pip install ipwhois
 ```
 
 ## CREDITS ##
 Author: Arctis
 
-## Links ##
-Website: https://arctis-network.serveftp.com DOWN
-Discord: https://discord.gg/jQsJjhwrcM DOWN
-EMail: arctis.netzwerk@aol.com DOWN
+## How to Use ##
+Put the file into your user Folder.
+Then you can Open it directly from everywhere with cmd.
