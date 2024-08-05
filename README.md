@@ -1,4 +1,4 @@
-# WauPing
+# Memorian Ping
 
 A Simple Pinger.
 
