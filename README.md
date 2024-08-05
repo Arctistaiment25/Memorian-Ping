@@ -4,7 +4,7 @@ A Simple Pinger.
 
 ## usage
 ```
-wauping.exe -- (Into your CMD / READ HOW TO USE!)
+meowping.py -- (Into your CMD / READ HOW TO USE!)
 ```
 
 Requiremets
