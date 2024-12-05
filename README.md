@@ -1,4 +1,4 @@
-# Memorian Ping [Not Maintancing anymore]
+# Memorian Ping [Not maintained anymore]
 
 A Simple Pinger.
 
