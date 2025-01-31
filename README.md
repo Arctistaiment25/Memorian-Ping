@@ -4,7 +4,7 @@ A Simple Pinger.
 
 ## usage
 ```
-meowping.py -- (Into your CMD / READ HOW TO USE!)
+memorian.py -- (Into your CMD / READ HOW TO USE!)
 ```
 
 Requiremets
